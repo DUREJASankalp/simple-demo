@@ -1,4 +1,4 @@
 # Simple Example Repository
-Repository first
+Repository second
 
 This is just an example for training purposes.
