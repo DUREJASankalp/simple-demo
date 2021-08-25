@@ -1,4 +1,4 @@
 # Simple Example Repository
-Remote example
+Repository first
 
 This is just an example for training purposes.
