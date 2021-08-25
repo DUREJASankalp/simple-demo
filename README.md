@@ -1,4 +1,4 @@
 # Simple Example Repository
-Repository third
+Working folder example
 
 This is just an example for training purposes.
